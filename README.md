@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png" width="900">
+<img width="500" height="400" alt="header" src="https://github.com/user-attachments/assets/2f6c8d06-4238-47e3-9565-ce68f17009aa" />
 </p>
 
 # pretty-little-circuits
