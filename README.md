@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.png" width="900">
+</p>
+
 # pretty-little-circuits
 A cute, interactive digital electronics lab to design and test out circuits as well as perform calculations!
 
